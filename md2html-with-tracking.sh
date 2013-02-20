@@ -5,8 +5,7 @@
 # author:           Brian Buccola
 #
 # description:      Coverts index.markdown into index.html using pandoc, while
-#                   also adding Google Analytics tracking to <a href...>
-#                   elements.
+#                   also adding Google Analytics tracking to <a href...> tags.
 
 PG_TITLE="Brian Buccola"
 AUTHOR="Brian Buccola"
@@ -14,6 +13,7 @@ AUTHOR="Brian Buccola"
 IN_FILE="./index.markdown"
 OUT_FILE="./index.html"
 
+CSS="./mystyle.css"
 HEADER="./header.html"
 BODY="./body.html"
 FOOTER="./footer.html"
@@ -21,6 +21,7 @@ FOOTER="./footer.html"
 ONCLICK_PDF="_gaq.push(['_trackEvent','Download','PDF',this.href]);"
 ONCLICK_TEX="_gaq.push(['_trackEvent','Download','TEX',this.href]);"
 
+# Check if given file exists.
 file_check() {
     if [[ ! -f "$1" ]]; then
         echo "Error: cannot find file ${1}."
@@ -28,12 +29,15 @@ file_check() {
     fi
 }
 
-file_check "$IN_FILE"
-file_check "$HEADER"
-file_check "$BODY"
-file_check "$FOOTER"
+# Files to check.
+FILES=("$IN_FILE" "$CSS" "$HEADER" "$BODY" "$FOOTER")
 
-pandoc -S -H "$HEADER" -B "$BODY" -A "$FOOTER"                  \
+for f in "${FILES[@]}"; do
+    file_check "$f"
+done
+
+# Convert markdown to html5, and add onclick text to link tags.
+pandoc -S -c "$CSS" -H "$HEADER" -B "$BODY" -A "$FOOTER"        \
     -V pagetitle="$PG_TITLE" -V author-meta="$AUTHOR"           \
     --mathjax -f markdown -t html5 "$IN_FILE"               |   \
     sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$ONCLICK_PDF\"|g"  |   \

@@ -12,7 +12,7 @@ EXCL="$SRC/.push-website/exclude-list"
 LOG="$SRC/.push-website/log"
 
 rsync \
-    -avhhh -e "ssh -i $HOME/.ssh/id_rsa.mcgill" \
+    -avhhh \
     --exclude-from=$EXCL \
     --log-file=$LOG \
     $SRC/ $DEST/

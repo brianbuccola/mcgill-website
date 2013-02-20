@@ -7,7 +7,7 @@
 # description:      Push website changes onto McGill server.
 
 SRC="$HOME/website"
-DEST="brian.buccola@people.linguistics.mcgill.ca:/home/bbucco/public_html"
+DEST="mcgill:/home/bbucco/public_html"
 EXCL="$SRC/.push-website/exclude-list"
 LOG="$SRC/.push-website/log"
 

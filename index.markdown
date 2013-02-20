@@ -1,14 +1,4 @@
-% Brian Buccola<!-- title  -->
-% Brian Buccola<!-- author -->
-
-<div class="imgR">
-<img title="Here's me." alt="Here's me." src="images/brian-fence.jpg"
-height="125" width="125" >
-</div>
-
-
-Brian Buccola
-=============
+# Brian Buccola #
 
 Department of Linguistics  
 McGill University  
@@ -74,7 +64,7 @@ computational linguistics.
 [tom4]:    files/buccola-tom4-handout.pdf   "TOM 4 handout"
 
 
-### LaTeX stuff ###
+### LaTeX tutorials ###
 
 - Getting started with LaTeX [`pdf`][gs-pdf] | [`tex`][gs-tex]
 
@@ -108,14 +98,3 @@ computational linguistics.
 [trees-tex]:
     https://github.com/brianbuccola/latex-tutorials/blob/master/latex-trees.tex?raw=true
     "Trees and numbered examples in LaTeX (source)"
-
-
-<p class=footer>
-Copyright &copy; 2011&ndash;2013 &nbsp; Brian Buccola  
-Last updated: February 13, 2013.  
-Powered in part by [markdown][], [pandoc][], and [github][].
-</p>
-
-[markdown]: http://daringfireball.net/projects/markdown/
-[pandoc]:   http://johnmacfarlane.net/pandoc/
-[github]:   https://github.com/

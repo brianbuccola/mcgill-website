@@ -31,10 +31,10 @@ computational linguistics.
 - [`pdf`][cv-pdf] | [`tex`][cv-tex]
 
 [cv-pdf]:
-    https://github.com/brianbuccola/cv/blob/master/buccola-CV.pdf?raw=true
+    https://github.com/brianbuccola/cv/blob/master/buccola-cv.pdf?raw=true
     "Brian's CV"
 [cv-tex]:
-    https://github.com/brianbuccola/cv/blob/master/buccola-CV.tex?raw=true
+    https://github.com/brianbuccola/cv/blob/master/buccola-cv.tex?raw=true
     "Brian's CV (source)"
 
 

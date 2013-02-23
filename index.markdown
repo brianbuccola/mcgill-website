@@ -2,16 +2,40 @@
 
 Department of Linguistics  
 McGill University  
-[`email`][email]
+[`email`][email]  
+[`blog`][blog]
 
 [email]: mailto:brian.buccola@mail.mcgill.ca
+[blog]:  http://brianbuccola.github.com/
 
 
-### About me ###
+### About ###
 
-I'm a Ph.D. student in linguistics at [McGill University][dept]. My research
+I am a Ph.D. student in linguistics at [McGill University][dept]. My research
 interests primarily include formal semantics, pragmatics, phonology, and
 computational linguistics.
+
+For my first evaluation paper, I studied the epistemic inferences that speakers
+make when they encounter superlative numeral quantifiers like "at least *m*"
+and "at most *n*" and how such inferences should be modeled in
+semantic--pragmatic theory. I drew a connection between certain puzzling
+inferences involving superlative quantifiers, on the one hand, and
+non--monotonic inferences involving overt epistemic modals, on the other hand,
+such the reasonable but defeasible inference from "Bob went to Italy" that Bob
+may have gone to Rome.
+
+For my second evaluation paper, I gave a mathematical demonstration that there
+exist phonological patterns (namely, certain ones among those traditionally
+called *opaque*) which can be expressed by ordered rewrite rules but which
+cannot be expressed by "classic" Optimality Theoretic grammars, under any set
+of constraints, under any ranking. By a classic OT grammar, I mean one which
+recognizes just two levels of representation (underlying and surface) and just
+two types of constraints (markedness and basic faithfulness).
+
+Apart from linguistics, I enjoy tinkering with Linux, learning about functional
+programming (like Haskell), listening to early American blues and jazz, and
+(when I have time) brewing beer. I have a [personal blog][blog] where I write
+about language, math, linux, and other random stuff that comes to mind.
 
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 

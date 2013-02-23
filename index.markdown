@@ -2,7 +2,7 @@
 
 Department of Linguistics  
 McGill University  
-[`brian.buccola@mail.mcgill.ca`][email]
+[`email`][email]
 
 [email]: mailto:brian.buccola@mail.mcgill.ca
 

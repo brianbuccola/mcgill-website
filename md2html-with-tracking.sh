@@ -15,8 +15,8 @@ OUT_FILE="./index.html"
 
 CSS="./mystyle.css"
 HEADER="./header.html"
-BODY="./body.html"
-FOOTER="./footer.html"
+BEFORE="./before-body.html"
+AFTER="./after-body.html"
 
 ONCLICK_PDF="_gaq.push(['_trackEvent','Download','PDF',this.href]);"
 ONCLICK_TEX="_gaq.push(['_trackEvent','Download','TEX',this.href]);"
@@ -30,14 +30,14 @@ file_check() {
 }
 
 # Files to check.
-FILES=("$IN_FILE" "$CSS" "$HEADER" "$BODY" "$FOOTER")
+FILES=("$IN_FILE" "$CSS" "$HEADER" "$BEFORE" "$AFTER")
 
 for f in "${FILES[@]}"; do
     file_check "$f"
 done
 
 # Convert markdown to html5, and add onclick text to link tags.
-pandoc -S -c "$CSS" -H "$HEADER" -B "$BODY" -A "$FOOTER"        \
+pandoc -S -c "$CSS" -H "$HEADER" -B "$BEFORE" -A "$AFTER"       \
     -V pagetitle="$PG_TITLE" -V author-meta="$AUTHOR"           \
     --mathjax -f markdown -t html5 "$IN_FILE"               |   \
     sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$ONCLICK_PDF\"|g"  |   \

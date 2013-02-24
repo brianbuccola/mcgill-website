@@ -23,8 +23,8 @@ and "at most *n*" and how such inferences should be modeled in
 semantic--pragmatic theory. I drew a connection between certain puzzling
 inferences involving superlative quantifiers, on the one hand, and
 non--monotonic inferences involving overt epistemic modals, on the other hand,
-such the reasonable but defeasible inference from "Bob went to Italy" that Bob
-may have gone to Rome.
+such as the reasonable but defeasible inference from "Bob went to Italy" that
+Bob may have gone to Rome.
 
 For my second evaluation paper, I gave a mathematical demonstration that there
 exist phonological patterns (namely, certain ones among those traditionally

@@ -1,4 +1,5 @@
-# Brian Buccola #
+Brian Buccola
+=============
 
 Department of Linguistics  
 McGill University  
@@ -9,7 +10,8 @@ McGill University
 [blog]:  http://brianbuccola.github.com/
 
 
-### About ###
+About
+-----
 
 I am a Ph.D. student in linguistics at [McGill University][dept]. My research
 interests primarily include formal semantics, pragmatics, phonology, and
@@ -40,7 +42,8 @@ about language, math, linux, and other random stuff that comes to mind.
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 
 
-### Education ###
+Education
+---------
 
 - Ph.D. student, Linguistics, McGill University, 2009--present.
 
@@ -50,7 +53,8 @@ about language, math, linux, and other random stuff that comes to mind.
   Chicago, 2004--2008.
 
 
-### CV ###
+CV
+---
 
 - [`pdf`][cv-pdf] | [`tex`][cv-tex]
 
@@ -62,7 +66,8 @@ about language, math, linux, and other random stuff that comes to mind.
     "Brian's CV (source)"
 
 
-### Papers and handouts ###
+Papers and handouts
+-------------------
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
@@ -88,7 +93,8 @@ about language, math, linux, and other random stuff that comes to mind.
 [tom4]:    files/buccola-tom4-handout.pdf   "TOM 4 handout"
 
 
-### LaTeX tutorials ###
+LaTeX tutorials
+---------------
 
 - Getting started with LaTeX [`pdf`][gs-pdf] | [`tex`][gs-tex]
 

@@ -93,8 +93,8 @@ Papers and handouts
 [tom4]:    files/buccola-tom4-handout.pdf   "TOM 4 handout"
 
 
-LaTeX tutorials
----------------
+$\LaTeX$ tutorials
+------------------
 
 - Getting started with LaTeX [`pdf`][gs-pdf] | [`tex`][gs-tex]
 

@@ -8,6 +8,11 @@ body
   margin:3% 20% 3% 20%; /* top right bottom left */
 }
 
+p
+{
+  text-align:justify;
+}
+
 h1
 {
   font-size:200%;

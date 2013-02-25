@@ -40,19 +40,19 @@ ul
 a:link
 {
   color:steelblue;
-  text-decoration:underline;
   font-weight:bold;
+  text-decoration:none;
 }
 
 a:visited
 {
   color:lightsteelblue;
-  text-decoration:underline;
 }
 
 a:hover
 {
   color:lightsteelblue;
+  text-decoration:underline;
 }
 
 a:active

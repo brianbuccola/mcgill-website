@@ -3,11 +3,11 @@ Brian Buccola
 
 Department of Linguistics  
 McGill University  
-[`email`][email]  
-[`blog`][blog]
+[`email`][email] | [`blog`][blog] | [`twitter`][twitter]
 
-[email]: mailto:brian.buccola@mail.mcgill.ca
-[blog]:  http://brianbuccola.github.com/
+[email]:   mailto:brian.buccola@mail.mcgill.ca
+[blog]:    http://brianbuccola.github.com/
+[twitter]: https://twitter.com/brianbuccola/
 
 
 About

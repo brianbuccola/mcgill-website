@@ -39,24 +39,25 @@ ul
 
 a:link
 {
-  color:#000000;
+  color:steelblue;
   text-decoration:underline;
+  font-weight:bold;
 }
 
 a:visited
 {
-  color:#000000;
+  color:lightsteelblue;
   text-decoration:underline;
 }
 
 a:hover
 {
-  color:#268BD2;
+  color:lightsteelblue;
 }
 
 a:active
 {
-  color:#82BEE8;
+  color:#DFE7F2;
 }
 
 img

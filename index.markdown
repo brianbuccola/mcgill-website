@@ -73,12 +73,13 @@ Papers and handouts
   expressively weaker than ordered rewrite rules. Second evaluation paper.
   McGill University.
 
-- Buccola, Brian. 2012a. Some remarks on inference patterns involving epistemic
+- Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
   modality. First evaluation paper. McGill University.
 
-- Buccola, Brian. 2012b. The nature of epistemic implications arising from
+- Buccola, Brian. 2012. The nature of epistemic implications arising from
   superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
-  semantics workshop, Ottawa. [`pdf`][tom5] (superseded by Buccola 2012a)
+  semantics workshop, Ottawa. [`pdf`][tom5] (superseded by my first evaluation
+  paper)
 
 - Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and

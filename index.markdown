@@ -71,14 +71,14 @@ Papers and handouts
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
-  McGill University.
+  McGill University. (email for manuscript)
 
 - Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
-  modality. First evaluation paper. McGill University.
+  modality. First evaluation paper. McGill University. (email for manuscript)
 
 - Buccola, Brian. 2012. The nature of epistemic implications arising from
   superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
-  semantics workshop, Ottawa. [`pdf`][tom5] (superseded by my first evaluation
+  semantics workshop, Ottawa. [`pdf`][tom5] (superseded by first evaluation
   paper)
 
 - Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of

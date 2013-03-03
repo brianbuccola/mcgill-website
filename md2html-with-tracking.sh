@@ -14,7 +14,7 @@ IN_FILE="./index.markdown"
 OUT_FILE="./index.html"
 
 CSS="./mystyle.css"
-HEADER="./header.html"
+HEAD="./head.html"
 BEFORE="./before-body.html"
 AFTER="./after-body.html"
 
@@ -30,14 +30,14 @@ file_check() {
 }
 
 # Files to check.
-FILES=("$IN_FILE" "$CSS" "$HEADER" "$BEFORE" "$AFTER")
+FILES=("$IN_FILE" "$CSS" "$HEAD" "$BEFORE" "$AFTER")
 
 for f in "${FILES[@]}"; do
     file_check "$f"
 done
 
 # Convert markdown to html5, and add onclick text to link tags.
-pandoc -S -c "$CSS" -H "$HEADER" -B "$BEFORE" -A "$AFTER"       \
+pandoc -S -c "$CSS" -H "$HEAD" -B "$BEFORE" -A "$AFTER"         \
     -V pagetitle="$PG_TITLE" -V author-meta="$AUTHOR"           \
     --mathjax -f markdown -t html5 "$IN_FILE"               |   \
     sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$ONCLICK_PDF\"|g"  |   \

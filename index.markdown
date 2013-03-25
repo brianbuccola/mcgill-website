@@ -69,6 +69,11 @@ CV
 Papers and handouts
 -------------------
 
+- Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
+  Theory is expressively weaker than ordered rewrite rules.  Talk given at the
+  Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.
+  [`pdf`][mot]
+
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
   McGill University. [`pdf`][eval2]
@@ -89,6 +94,7 @@ Papers and handouts
   puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal semantics
   workshop, Toronto.  [`pdf`][tom4]
 
+[mot]:      files/buccola-mot.pdf               "MOT handout"
 [eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
 [tom5]:     files/buccola-tom5-handout.pdf      "TOM 5 handout"
 [semprag]:  http://dx.doi.org/10.3765/sp.5.1    "Schwarz, Buccola, and Hamilton 2012"

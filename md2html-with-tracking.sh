@@ -7,19 +7,19 @@
 # description:      Coverts index.markdown into index.html using pandoc, while
 #                   also adding Google Analytics tracking to <a href...> tags.
 
-PG_TITLE="Brian Buccola"
-AUTHOR="Brian Buccola"
+pg_title="Brian Buccola"
+author="Brian Buccola"
 
-IN_FILE="./index.markdown"
-OUT_FILE="./index.html"
+in_file="index.markdown"
+out_file="index.html"
 
-CSS="./mystyle.css"
-HEAD="./head.html"
-BEFORE="./before-body.html"
-AFTER="./after-body.html"
+css="style.css"
+head="head.html"
+before="before-body.html"
+after="after-body.html"
 
-ONCLICK_PDF="_gaq.push(['_trackEvent','Download','PDF',this.href]);"
-ONCLICK_TEX="_gaq.push(['_trackEvent','Download','TEX',this.href]);"
+onclick_pdf="_gaq.push(['_trackEvent','Download','PDF',this.href]);"
+onclick_tex="_gaq.push(['_trackEvent','Download','TEX',this.href]);"
 
 # Check if given file exists.
 file_check() {
@@ -30,16 +30,16 @@ file_check() {
 }
 
 # Files to check.
-FILES=("$IN_FILE" "$CSS" "$HEAD" "$BEFORE" "$AFTER")
+files=("$in_file" "$css" "$head" "$before" "$after")
 
-for f in "${FILES[@]}"; do
+for f in "${files[@]}"; do
     file_check "$f"
 done
 
 # Convert markdown to html5, and add onclick text to link tags.
-pandoc -S -c "$CSS" -H "$HEAD" -B "$BEFORE" -A "$AFTER"         \
-    -V pagetitle="$PG_TITLE" -V author-meta="$AUTHOR"           \
-    --mathjax -f markdown -t html5 "$IN_FILE"               |   \
-    sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$ONCLICK_PDF\"|g"  |   \
-    sed "s|<a[^>]*\.tex[^>]*|& onclick=\"$ONCLICK_TEX\"|g"      \
-    > $OUT_FILE
+pandoc -S -c "$css" -H "$head" -B "$before" -A "$after"         \
+    -V pagetitle="$pg_title" -V author-meta="$author"           \
+    --mathjax -f markdown -t html5 "$in_file"               |   \
+    sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$onclick_pdf\"|g"  |   \
+    sed "s|<a[^>]*\.tex[^>]*|& onclick=\"$onclick_tex\"|g"      \
+    > $out_file

@@ -1,9 +1,11 @@
 Brian Buccola
 =============
 
+<p class="contact">
 Department of Linguistics  
 McGill University  
-[`email`][email] | [`blog`][blog] | [`twitter`][twitter]
+[email][email] | [blog][blog] | [twitter][twitter]
+</p>
 
 [email]:   mailto:brian.buccola@mail.mcgill.ca
 [blog]:    http://brianbuccola.github.com/
@@ -56,7 +58,7 @@ Education
 CV
 ---
 
-- [`pdf`][cv-pdf] | [`tex`][cv-tex]
+- [pdf][cv-pdf] | [tex][cv-tex]
 
 [cv-pdf]:
     https://github.com/brianbuccola/cv/blob/master/buccola-cv.pdf?raw=true
@@ -71,28 +73,32 @@ Papers and handouts
 
 - Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
   Theory is expressively weaker than ordered rewrite rules.  Talk given at the
-  Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.
-  [`pdf`][mot]
+  Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.  
+  [pdf][mot]
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
-  McGill University. [`pdf`][eval2]
+  McGill University.  
+  [pdf][eval2]
 
 - Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
-  modality. First evaluation paper. McGill University. (email for manuscript)
+  modality. First evaluation paper. McGill University.  
+  (email for manuscript)
 
 - Buccola, Brian. 2012. The nature of epistemic implications arising from
   superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
-  semantics workshop, Ottawa. [`pdf`][tom5] (superseded by first evaluation
-  paper)
+  semantics workshop, Ottawa.  
+  [pdf][tom5] (superseded by first evaluation paper)
 
 - Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
-  Pragmatics*, Volume 5, Article 1:1--25. [`doi`][semprag]
+  Pragmatics*, Volume 5, Article 1:1--25.  
+  [doi][semprag]
 
 - Buccola, Brian. 2011. Phrasal and clausal comparatives: the *di* vs. *che*
   puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal semantics
-  workshop, Toronto.  [`pdf`][tom4]
+  workshop, Toronto.  
+  [pdf][tom4]
 
 [mot]:      files/buccola-mot.pdf               "MOT handout"
 [eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
@@ -104,13 +110,17 @@ Papers and handouts
 $\LaTeX$ tutorials
 ------------------
 
-- Getting started with LaTeX [`pdf`][gs-pdf] | [`tex`][gs-tex]
+- Getting started with LaTeX  
+  [pdf][gs-pdf] | [tex][gs-tex]
 
-- LaTeX basics [`pdf`][bas-pdf] | [`tex`][bas-tex]
+- LaTeX basics  
+  [pdf][bas-pdf] | [tex][bas-tex]
 
-- LaTeX reference management [`pdf`][ref-pdf] | [`tex`][ref-tex]
+- LaTeX reference management  
+  [pdf][ref-pdf] | [tex][ref-tex]
 
-- Trees and numbered examples in LaTeX [`pdf`][trees-pdf] | [`tex`][trees-tex]
+- Trees and numbered examples in LaTeX  
+  [pdf][trees-pdf] | [tex][trees-tex]
 
 [gs-pdf]:
     https://github.com/brianbuccola/latex-tutorials/blob/master/latex-getting-started.pdf?raw=true

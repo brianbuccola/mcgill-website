@@ -8,7 +8,7 @@ McGill University
 </p>
 
 [email]:   mailto:brian.buccola@mail.mcgill.ca
-[blog]:    http://brianbuccola.github.com/
+[blog]:    http://brianbuccola.github.io/
 [twitter]: https://twitter.com/brianbuccola/
 
 

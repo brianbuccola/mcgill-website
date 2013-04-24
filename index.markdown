@@ -61,10 +61,10 @@ CV
 - [pdf][cv-pdf] | [tex][cv-tex]
 
 [cv-pdf]:
-    https://github.com/brianbuccola/cv/blob/master/buccola-cv.pdf?raw=true
+    https://github.com/brianbuccola/cv/raw/master/buccola-cv.pdf
     "Brian's CV"
 [cv-tex]:
-    https://github.com/brianbuccola/cv/blob/master/buccola-cv.tex?raw=true
+    https://github.com/brianbuccola/cv/raw/master/buccola-cv.tex
     "Brian's CV (source)"
 
 
@@ -123,26 +123,26 @@ $\LaTeX$ tutorials
   [pdf][trees-pdf] | [tex][trees-tex]
 
 [gs-pdf]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-getting-started.pdf?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-getting-started.pdf
     "Getting started with LaTeX"
 [gs-tex]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-getting-started.tex?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-getting-started.tex
     "Getting started with LaTeX (source)"
 [bas-pdf]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-basics.pdf?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-basics.pdf
     "LaTeX basics"
 [bas-tex]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-basics.tex?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-basics.tex
     "LaTeX basics (source)"
 [ref-pdf]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-reference-mgmt.pdf?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-reference-mgmt.pdf
     "LaTeX reference management"
 [ref-tex]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-reference-mgmt.tex?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-reference-mgmt.tex
     "LaTeX reference management (source)"
 [trees-pdf]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-trees.pdf?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-trees.pdf
     "Trees and numbered examples in LaTeX"
 [trees-tex]:
-    https://github.com/brianbuccola/latex-tutorials/blob/master/latex-trees.tex?raw=true
+    https://github.com/brianbuccola/latex-tutorials/raw/master/latex-trees.tex
     "Trees and numbered examples in LaTeX (source)"

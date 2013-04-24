@@ -48,9 +48,7 @@ Education
 ---------
 
 - Ph.D. student, Linguistics, McGill University, 2009--present.
-
 - B.S. Mathematics, Honors College, Loyola University Chicago, 2004--2008.
-
 - B.A. Classics (Latin, Ancient Greek), Honors College, Loyola University
   Chicago, 2004--2008.
 

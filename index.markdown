@@ -59,7 +59,7 @@ CV
 - [pdf][cv-pdf] | [tex][cv-tex]
 
 [cv-pdf]:
-    https://github.com/brianbuccola/cv/raw/master/buccola-cv.pdf
+    files/buccola-cv.pdf
     "Brian's CV"
 [cv-tex]:
     https://github.com/brianbuccola/cv/raw/master/buccola-cv.tex

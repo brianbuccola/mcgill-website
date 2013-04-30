@@ -13,6 +13,7 @@ LOG="$SRC/.push-website/log"
 
 rsync \
     -avhhh \
+    --copy-unsafe-links \
     --exclude-from=$EXCL \
     --log-file=$LOG \
     $SRC/ $DEST/

@@ -6,14 +6,14 @@
 #
 # description:      Push website changes onto McGill server.
 
-SRC="$HOME/website"
-DEST="mcgill:/home/bbucco/public_html"
-EXCL="$SRC/.push-website/exclude-list"
-LOG="$SRC/.push-website/log"
+src="$HOME/website"
+dest="mcgill:/home/bbucco/public_html"
+excl="$src/.push-website/exclude-list"
+log="$src/.push-website/log"
 
 rsync \
     -avhhh \
     --copy-unsafe-links \
-    --exclude-from=$EXCL \
-    --log-file=$LOG \
-    $SRC/ $DEST/
+    --exclude-from=$excl \
+    --log-file=$log \
+    $src/ $dest/

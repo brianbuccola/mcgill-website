@@ -66,13 +66,8 @@ CV
     "Brian's CV (source)"
 
 
-Papers and handouts
--------------------
-
-- Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
-  Theory is expressively weaker than ordered rewrite rules.  Talk given at the
-  Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.  
-  [pdf][mot]
+Publications and manuscripts
+----------------------------
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
@@ -83,15 +78,26 @@ Papers and handouts
   modality. First evaluation paper. McGill University.  
   (email for manuscript)
 
-- Buccola, Brian. 2012. The nature of epistemic implications arising from
-  superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
-  semantics workshop, Ottawa.  
-  [pdf][tom5] (superseded by first evaluation paper)
-
 - Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
   Pragmatics*, Volume 5, Article 1:1--25.  
   [doi][semprag]
+
+[eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
+[semprag]:  http://dx.doi.org/10.3765/sp.5.1    "Schwarz, Buccola, and Hamilton 2012"
+
+Handouts
+--------
+
+- Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
+  Theory is expressively weaker than ordered rewrite rules.  Talk given at the
+  Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.  
+  [pdf][mot]
+
+- Buccola, Brian. 2012. The nature of epistemic implications arising from
+  superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
+  semantics workshop, Ottawa.  
+  [pdf][tom5] (superseded by first evaluation paper)
 
 - Buccola, Brian. 2011. Phrasal and clausal comparatives: the *di* vs. *che*
   puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal semantics
@@ -99,9 +105,7 @@ Papers and handouts
   [pdf][tom4]
 
 [mot]:      files/buccola-mot.pdf               "MOT handout"
-[eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
 [tom5]:     files/buccola-tom5-handout.pdf      "TOM 5 handout"
-[semprag]:  http://dx.doi.org/10.3765/sp.5.1    "Schwarz, Buccola, and Hamilton 2012"
 [tom4]:     files/buccola-tom4-handout.pdf      "TOM 4 handout"
 
 

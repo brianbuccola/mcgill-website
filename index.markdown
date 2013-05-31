@@ -19,27 +19,15 @@ I am a Ph.D. student in linguistics at [McGill University][dept]. My research
 interests primarily include formal semantics, pragmatics, phonology, and
 computational linguistics.
 
-For my first evaluation paper, I studied the epistemic inferences that speakers
-make when they encounter superlative numeral quantifiers like "at least *m*"
-and "at most *n*" and how such inferences should be modeled in
-semantic--pragmatic theory. I drew a connection between certain puzzling
-inferences involving superlative quantifiers, on the one hand, and
-non--monotonic inferences involving overt epistemic modals, on the other hand,
-such as the reasonable but defeasible inference from "Bob went to Italy" that
-Bob may have gone to Rome.
-
-For my second evaluation paper, I gave a mathematical demonstration that there
-exist phonological patterns (namely, certain ones among those traditionally
-called *opaque*) which can be expressed by ordered rewrite rules but which
-cannot be expressed by "classic" Optimality Theoretic grammars, under any set
-of constraints, under any ranking. By a classic OT grammar, I mean one which
-recognizes just two levels of representation (underlying and surface) and just
-two types of constraints (markedness and basic faithfulness).
+On the semantics/pragmatics side, I have worked on ignorance inferences
+associated with superlative quantifiers like "at least *m*" and "at most *n*".
+On the phonology side, I have worked on the formal expressive difference
+between Optimality Theory and ordered rewrite rules.
 
 Apart from linguistics, I enjoy tinkering with Linux, learning about functional
-programming (like Haskell), listening to early American blues and jazz, and
-(when I have time) brewing beer. I have a [personal blog][blog] where I write
-about language, math, linux, and other random stuff that comes to mind.
+programming (like Haskell), and (when I have time) brewing beer. I have a
+[personal blog][blog] where I write about language, math, linux, and other
+random stuff that comes to mind.
 
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 
@@ -66,8 +54,10 @@ CV
     "Brian's CV (source)"
 
 
-Publications and manuscripts
-----------------------------
+Papers
+------
+
+### 2013
 
 - Buccola, Brian. 2013 (to appear). On the Expressivity of Optimality Theory
   versus Ordered Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.),
@@ -78,11 +68,13 @@ Publications and manuscripts
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
   McGill University.  
-  [pdf][eval2]
+  [pdf][eval2] (mostly superseded by Buccola 2013, Formal Grammar)
+
+### 2012
 
 - Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
   modality. First evaluation paper. McGill University.  
-  (email for manuscript)
+  [pdf][eval1]
 
 - Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
@@ -91,20 +83,27 @@ Publications and manuscripts
 
 [fg2013]:   files/buccola-fg2013.pdf            "Buccola 2013 (Formal Grammar)"
 [eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
+[eval1]:    files/buccola-eval1.pdf             "First evaluation paper"
 [semprag]:  http://dx.doi.org/10.3765/sp.5.1    "Schwarz, Buccola, and Hamilton 2012"
 
 Handouts
 --------
+
+### 2013
 
 - Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
   Theory is expressively weaker than ordered rewrite rules.  Talk given at the
   Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.  
   [pdf][mot] (superseded by Buccola 2013, Formal Grammar)
 
+### 2012
+
 - Buccola, Brian. 2012. The nature of epistemic implications arising from
   superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
   semantics workshop, Ottawa.  
   [pdf][tom5] (superseded by first evaluation paper)
+
+### 2011
 
 - Buccola, Brian. 2011. Phrasal and clausal comparatives: the *di* vs. *che*
   puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal semantics

@@ -69,6 +69,12 @@ CV
 Publications and manuscripts
 ----------------------------
 
+- Buccola, Brian. 2013 (to appear). On the Expressivity of Optimality Theory
+  versus Ordered Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.),
+  *Proceedings of Formal Grammar 2012 and 2013*, Lecture Notes in Computer
+  Science, Springer.  
+  [pdf][fg2013] (preprint draft)
+
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.
   McGill University.  
@@ -83,6 +89,7 @@ Publications and manuscripts
   Pragmatics*, Volume 5, Article 1:1--25.  
   [doi][semprag]
 
+[fg2013]:   files/buccola-fg2013.pdf            "Buccola 2013 (Formal Grammar)"
 [eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
 [semprag]:  http://dx.doi.org/10.3765/sp.5.1    "Schwarz, Buccola, and Hamilton 2012"
 
@@ -92,7 +99,7 @@ Handouts
 - Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
   Theory is expressively weaker than ordered rewrite rules.  Talk given at the
   Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.  
-  [pdf][mot]
+  [pdf][mot] (superseded by Buccola 2013, Formal Grammar)
 
 - Buccola, Brian. 2012. The nature of epistemic implications arising from
   superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal

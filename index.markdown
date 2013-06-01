@@ -63,7 +63,7 @@ Papers
   versus Ordered Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.),
   *Proceedings of Formal Grammar 2012 and 2013*, Lecture Notes in Computer
   Science, Springer.  
-  [pdf][fg2013] (preprint draft)
+  [pdf][fg2013] (preprint version)
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper.

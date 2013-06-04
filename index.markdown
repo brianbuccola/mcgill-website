@@ -21,7 +21,7 @@ computational linguistics.
 
 On the semantics/pragmatics side, I have worked on ignorance inferences
 associated with superlative quantifiers like "at least *m*" and "at most *n*".
-On the phonology side, I have worked on the formal expressive difference
+On the phonology side, I have worked on the difference in generative capacity
 between Optimality Theory and ordered rewrite rules.
 
 Apart from linguistics, I enjoy tinkering with Linux, learning about functional

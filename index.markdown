@@ -4,7 +4,7 @@ Brian Buccola
 <p class="contact">
 Department of Linguistics  
 McGill University  
-[email][email] | [blog][blog] | [twitter][twitter]
+[email][] | [blog][] | [twitter][]
 </p>
 
 [email]:   mailto:brian.buccola@mail.mcgill.ca

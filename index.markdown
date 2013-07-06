@@ -44,7 +44,7 @@ Education
 CV
 ---
 
-- [pdf][cv-pdf] | [tex][cv-tex]
+- Curriculum Vitae, as of 06 Jul 2013. [[pdf][cv-pdf] | [tex][cv-tex]]
 
 [cv-pdf]:
     files/buccola-cv.pdf
@@ -62,24 +62,22 @@ Papers
 - Buccola, Brian. 2013 (to appear). On the Expressivity of Optimality Theory
   versus Ordered Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.),
   *Proceedings of Formal Grammar 2012 and 2013*, Lecture Notes in Computer
-  Science 8036, pp. 142--158, Springer--Verlag Berlin Heidelberg.  
-  [pdf][fg2013] (preprint version)
+  Science 8036, pp. 142--158, Springer--Verlag Berlin Heidelberg.
+  [[pdf][fg2013]] (preprint)
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
-  expressively weaker than ordered rewrite rules. Second evaluation paper.
-  McGill University.  
-  [pdf][eval2] (mostly superseded by Buccola 2013, Formal Grammar)
+  expressively weaker than ordered rewrite rules. Second evaluation paper,
+  McGill University. [[pdf][eval2]] (mostly superseded by Buccola 2013, Formal
+  Grammar)
 
 ### 2012
 
 - Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
-  modality. First evaluation paper. McGill University.  
-  [pdf][eval1]
+  modality. First evaluation paper, McGill University. [[pdf][eval1]]
 
 - Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
-  Pragmatics*, Volume 5, Article 1:1--25.  
-  [doi][semprag]
+  Pragmatics*, Volume 5, Article 1:1--25. [[doi][semprag]]
 
 [fg2013]:   files/buccola-fg2013.pdf            "Buccola 2013 (Formal Grammar)"
 [eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
@@ -92,23 +90,22 @@ Handouts
 ### 2013
 
 - Buccola, Brian. 2013. A mathematical demonstration that classic Optimality
-  Theory is expressively weaker than ordered rewrite rules.  Talk given at the
-  Montreal--Ottawa--Toronto phonology workshop. University of Ottawa.  
-  [pdf][mot] (superseded by Buccola 2013, Formal Grammar)
+  Theory is expressively weaker than ordered rewrite rules. Talk given at the
+  Montreal--Ottawa--Toronto (MOT) phonology workshop, University of Ottawa.
+  [[pdf][mot]] (superseded by Buccola 2013, Formal Grammar)
 
 ### 2012
 
 - Buccola, Brian. 2012. The nature of epistemic implications arising from
   superlative quantifiers. Talk given at the 5th Toronto--Ottawa--Montreal
-  semantics workshop, Ottawa.  
-  [pdf][tom5] (superseded by first evaluation paper)
+  (TOM) semantics workshop, University of Ottawa. [[pdf][tom5]] (superseded by
+  first evaluation paper)
 
 ### 2011
 
 - Buccola, Brian. 2011. Phrasal and clausal comparatives: the *di* vs. *che*
-  puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal semantics
-  workshop, Toronto.  
-  [pdf][tom4]
+  puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal (TOM)
+  semantics workshop, University of Toronto. [[pdf][tom4]]
 
 [mot]:      files/buccola-mot.pdf               "MOT handout"
 [tom5]:     files/buccola-tom5-handout.pdf      "TOM 5 handout"
@@ -118,17 +115,13 @@ Handouts
 $\LaTeX$ tutorials
 ------------------
 
-- Getting started with LaTeX  
-  [pdf][gs-pdf] | [tex][gs-tex]
+- Getting started with LaTeX [[pdf][gs-pdf] | [tex][gs-tex]]
 
-- LaTeX basics  
-  [pdf][bas-pdf] | [tex][bas-tex]
+- LaTeX basics [[pdf][bas-pdf] | [tex][bas-tex]]
 
-- LaTeX reference management  
-  [pdf][ref-pdf] | [tex][ref-tex]
+- LaTeX reference management [[pdf][ref-pdf] | [tex][ref-tex]]
 
-- Trees and numbered examples in LaTeX  
-  [pdf][trees-pdf] | [tex][trees-tex]
+- Trees and numbered examples in LaTeX [[pdf][trees-pdf] | [tex][trees-tex]]
 
 [gs-pdf]:
     https://github.com/brianbuccola/latex-tutorials/raw/master/latex-getting-started.pdf

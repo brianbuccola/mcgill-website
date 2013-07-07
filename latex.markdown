@@ -1,3 +1,7 @@
+% LaTeX
+% Brian Buccola
+%
+
 $\LaTeX$ tutorials
 ------------------
 

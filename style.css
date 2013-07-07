@@ -16,6 +16,10 @@ h1, .contact {
     text-align: right
 }
 
+.title, .author {
+    display: none;
+}
+
 .footer {
     font-family: "PT Sans", sans-serif;
     font-size: 90%;

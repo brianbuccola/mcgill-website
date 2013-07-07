@@ -8,8 +8,7 @@
 #                   also adding Google Analytics tracking to <a href...> tags.
 
 # Global variables.
-pg_title="Brian Buccola"
-author="Brian Buccola"
+title_prefix="Brian Buccola"
 css="style.css"
 head="head.html"
 before="before-body.html"
@@ -41,8 +40,8 @@ md2html_with_tracking() {
     done
 
     pandoc -S -c "$css" -H "$head" -B "$before" -A "$after"         \
-        -V pagetitle="$pg_title" -V author-meta="$author"           \
-        --mathjax -f markdown -t html5 "$in_file"               |   \
+        --title-prefix="$title_prefix" --mathjax                    \
+        -f markdown -t html5 "$in_file"                         |   \
         sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$onclick_pdf\"|g"  |   \
         sed "s|<a[^>]*\.tex[^>]*|& onclick=\"$onclick_tex\"|g"      \
         > $out_file

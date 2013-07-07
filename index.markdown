@@ -1,17 +1,3 @@
-Brian Buccola
-=============
-
-<p class="contact">
-Department of Linguistics  
-McGill University  
-[email][] | [blog][] | [twitter][]
-</p>
-
-[email]:   mailto:brian.buccola@mail.mcgill.ca
-[blog]:    http://brianbuccola.github.io/
-[twitter]: https://twitter.com/brianbuccola/
-
-
 About
 -----
 
@@ -30,6 +16,7 @@ programming (like Haskell), and (when I have time) brewing beer. I have a
 random stuff that comes to mind.
 
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
+[blog]: http://brianbuccola.github.io/ "Personal blog"
 
 
 Education

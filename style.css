@@ -62,11 +62,12 @@ a:hover {
 }
 
 .nav li {
+    width: 21%;
+    text-align: center;
     float: left;
-}
-
-.nav li a {
     display: block;
     padding: 8px 15px;
-    /* border-right: 1px solid #ccc; */
+    border-right: 1px solid #ccc;
 }
+
+.nav li:last-child { border-right: 0px; }

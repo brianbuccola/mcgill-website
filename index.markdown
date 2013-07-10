@@ -1,4 +1,4 @@
-% McGill University
+% Brian Buccola
 % Brian Buccola
 %
 
@@ -21,3 +21,16 @@ random stuff that comes to mind.
 
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 [blog]: http://brianbuccola.github.io/ "Personal blog"
+
+
+
+Recent
+------
+
+- On 11 August 2013, I'll be presenting my work on the expressivity of OT vs.
+  rewrite rules at [Formal Grammr][fg].
+- Since FG is collocated with [ESSLLI][esslli], I'll be attending that as well,
+  for two weeks.
+
+[fg]: http://mjn.host.cs.st-andrews.ac.uk/FG2013/
+[esslli]: http://esslli2013.de/

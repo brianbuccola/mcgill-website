@@ -1,4 +1,4 @@
-% LaTeX
+% Brian Buccola - LaTeX
 % Brian Buccola
 %
 

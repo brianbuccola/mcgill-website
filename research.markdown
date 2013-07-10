@@ -1,4 +1,4 @@
-% Publications
+% Brian Buccola - Research
 % Brian Buccola
 %
 

@@ -40,7 +40,7 @@ md2html_with_tracking() {
     done
 
     pandoc -S -c "$css" -H "$head" -B "$before" -A "$after"         \
-        --title-prefix="$title_prefix" --mathjax                    \
+        --mathjax                                                   \
         -f markdown -t html5 "$in_file"                         |   \
         sed "s|<a[^>]*\.pdf[^>]*|& onclick=\"$onclick_pdf\"|g"  |   \
         sed "s|<a[^>]*\.tex[^>]*|& onclick=\"$onclick_tex\"|g"      \

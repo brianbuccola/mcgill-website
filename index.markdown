@@ -10,9 +10,9 @@ interests primarily include formal semantics, pragmatics, phonology, and
 computational linguistics.
 
 On the semantics/pragmatics side, I have worked on ignorance inferences
-associated with superlative quantifiers like "at least *m*" and "at most *n*".
-On the phonology side, I have worked on the difference in generative capacity
-between Optimality Theory and ordered rewrite rules.
+associated with superlative numeral/scalar modifiers like "at least" and "at
+most".  On the phonology side, I have worked on the difference in generative
+capacity between Optimality Theory and ordered rewrite rules.
 
 Apart from linguistics, I enjoy tinkering with Linux, learning about functional
 programming (like Haskell), and (when I have time) brewing beer. I have a

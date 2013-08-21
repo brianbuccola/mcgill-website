@@ -7,11 +7,10 @@ Papers
 
 ### 2013
 
-- Buccola, Brian. 2013 (to appear). On the Expressivity of Optimality Theory
-  versus Ordered Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.),
-  *Proceedings of Formal Grammar 2012 and 2013*, Lecture Notes in Computer
-  Science 8036, pp. 142--158, Springer--Verlag Berlin Heidelberg.
-  [[pdf][fg2013]] (preprint)
+- Buccola, Brian. 2013. On the Expressivity of Optimality Theory versus Ordered
+  Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.), *Proceedings of
+  Formal Grammar 2012 and 2013*, Lecture Notes in Computer Science 8036, pp.
+  142--158, Springer--Verlag Berlin Heidelberg.  [[pdf][fg2013]] (preprint)
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper,

@@ -33,10 +33,10 @@ Recent/Upcoming
 - On 11 August 2013, I presented my work on the expressivity of OT vs. rewrite
   rules at [Formal Grammar][fg].
 - From 5-16 August 2013, I attended [ESSLLI][esslli] (collocated with FG),
-  where I took courses in [inquisitive semantics][inq] by [Donka Farkas][donka]
-  and [Floris Roelofsen][floris], in speech act theory by [Sarah Murray][sarah]
-  and [Will Starr][will], and in the "psychological reality of semantic
-  theories" by [Hans Kamp][hans], among many others.
+  where I took courses in questions and assertions (in [inquisitive semantics][inq])
+  by [Donka Farkas][donka] and [Floris Roelofsen][floris], in speech act theory
+  by [Sarah Murray][sarah] and [Will Starr][will], and in the "psychological
+  reality of semantic theories" by [Hans Kamp][hans], among many others.
 
 [phon2013]: http://blogs.umass.edu/phonology-2013/
 [MS]: http://people.linguistics.mcgill.ca/~morgan/

@@ -1,8 +1,8 @@
 body {
   font-family: "PT Serif", serif;
-  font-size: 12.0pt;
+  font-size: 11pt;
   line-height: 175%;
-  margin: 5% 15% 5% 15%; /* top right bottom left */
+  margin: 5% 25% 5% 25%; /* top right bottom left */
 }
 
 h1, h2, h3, h4, h5 {

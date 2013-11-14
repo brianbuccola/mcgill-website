@@ -1,79 +1,79 @@
 body {
-    font-family: "PT Serif", serif;
-    font-size: 12.0pt;
-    line-height: 175%;
-    margin: 5% 15% 5% 15%; /* top right bottom left */
+  font-family: "PT Serif", serif;
+  font-size: 12.0pt;
+  line-height: 175%;
+  margin: 5% 15% 5% 15%; /* top right bottom left */
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: "PT Sans", sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 h1, .contact {
-    font-family: "PT Sans";
-    font-weight: bold;
-    color: #ccc;
-    text-align: right
+  font-family: "PT Sans";
+  font-weight: bold;
+  color: #ccc;
+  text-align: right
 }
 
 .title, .author {
-    display: none;
+  display: none;
 }
 
 .footer {
-    font-family: "PT Sans", sans-serif;
-    font-size: 90%;
-    color: #ababab;
+  font-family: "PT Sans", sans-serif;
+  font-size: 90%;
+  color: #ababab;
 }
 
 hr.footer {
-    margin-top: 5%;
+  margin-top: 5%;
 }
 
 code, pre {
-    font-family: "Droid Sans Mono", monospace;
-    font-size: 10pt;
+  font-family: "Droid Sans Mono", monospace;
+  font-size: 10pt;
 }
 
 a:link {
-    color: cornflowerblue;
-    font-weight: bold;
-    text-decoration: none;
+  color: cornflowerblue;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 a:visited {
-    color: tan;
+  color: tan;
 }
 
 a:hover {
-    color: darkred;
-    text-decoration: underline;
+  color: darkred;
+  text-decoration: underline;
 }
 
 .nav {
-    width: 100%;
-    float: left;
-    margin: 1% 0 5% 0;
-    padding: 0;
-    list-style: none;
-    background-color: #f2f2f2;
-    border-bottom: 1px solid #ccc;
-    border-top: 1px solid #ccc;
-    font-family: "PT Sans", sans-serif;
-    font-size: 110%;
+  width: 100%;
+  float: left;
+  margin: 1% 0 5% 0;
+  padding: 0;
+  list-style: none;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  font-family: "PT Sans", sans-serif;
+  font-size: 110%;
 }
 
 .nav li {
-    width: 24.8%; /* subtract ~0.2% to account for border-right */
-    text-align: center;
-    float: left;
-    display: inline;
-    padding-top: 7px;
-    padding-bottom: 7px;
-    border-right: 1px solid #ccc;
+  width: 24.8%; /* subtract ~0.2% to account for border-right */
+  text-align: center;
+  float: left;
+  display: inline;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-right: 1px solid #ccc;
 }
 
 .nav li:last-child {
-    border-right: 0px;
-    width: 25%;
+  border-right: 0px;
+  width: 25%;
 }

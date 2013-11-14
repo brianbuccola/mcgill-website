@@ -10,11 +10,10 @@ Education
 - B.A. Classics (Latin, Ancient Greek), Honors College, Loyola University
   Chicago, 2004--2008.
 
-
 CV
 ---
 
-- Curriculum Vitae, as of 19 Jul 2013. [[pdf][cv-pdf] | [tex][cv-tex]]
+- Curriculum Vitae, as of 12 Nov 2013. [[pdf][cv-pdf] | [tex][cv-tex]]
 
 [cv-pdf]:
     files/buccola-cv.pdf

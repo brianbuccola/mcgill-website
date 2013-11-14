@@ -16,20 +16,19 @@ capacity between Optimality Theory and ordered rewrite rules.
 
 Apart from linguistics, I enjoy tinkering with Linux, learning about functional
 programming (like Haskell), and (when I have time) brewing beer. I have a
-[personal blog][blog] where I write about language, math, linux, and other
+[personal blog][blog] where I write about language, math, Linux, and other
 random stuff that comes to mind.
 
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 [blog]: http://brianbuccola.github.io/ "Personal blog"
 
-
-
 Recent/Upcoming
 ---------------
 
-- On 9 November 2013, I'll be at the [Phonology 2013][phon2013] poster session
-  presenting joint work with [Morgan Sonderegger][MS] on the expressivity of OT
-  with respect to various types of phonological opacity.
+- On 9 November 2013, I was at the very first [Phonology 2013][phon2013]
+  conference at UMass Amherst presenting joint work with [Morgan
+  Sonderegger][MS] on the expressivity of OT with respect to various types of
+  phonological opacity.
 
 [phon2013]: http://blogs.umass.edu/phonology-2013/
 [MS]: http://people.linguistics.mcgill.ca/~morgan/

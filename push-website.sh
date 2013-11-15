@@ -6,14 +6,14 @@
 #
 # description:      Push website changes onto McGill server.
 
-src="$HOME/website"
+src="${HOME}/website"
 dest="mcgill:/home/bbucco/public_html"
-excl="$src/.push-website/exclude-list"
-log="$src/.push-website/log"
+excl="${src}/.push-website/exclude-list"
+log="${src}/.push-website/log"
 
 rsync \
     -avhhh \
     --copy-unsafe-links \
-    --exclude-from=$excl \
-    --log-file=$log \
-    $src/ $dest/
+    --exclude-from=${excl} \
+    --log-file=${log} \
+    ${src}/ ${dest}/

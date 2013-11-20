@@ -10,7 +10,7 @@ Papers
 - Buccola, Brian. 2013. On the Expressivity of Optimality Theory versus Ordered
   Rewrite Rules. In Glyn Morrill and Mark--Jan Nederhof (eds.), *Proceedings of
   Formal Grammar 2012 and 2013*, Lecture Notes in Computer Science 8036, pp.
-  142--158, Springer--Verlag Berlin Heidelberg.  [[pdf][fg2013]] (preprint)
+  142--158, Springer--Verlag Berlin Heidelberg.  [[pdf][fg]] (preprint)
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper,
@@ -26,9 +26,9 @@ Papers
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
   Pragmatics*, Volume 5, Article 1:1--25. [[doi][semprag]]
 
-[fg2013]:   files/buccola-fg2013.pdf            "Buccola 2013 (Formal Grammar)"
-[eval2]:    files/buccola-eval2.pdf             "Second evaluation paper"
-[eval1]:    files/buccola-eval1.pdf             "First evaluation paper"
+[fg]:       files/buccola2013-fg.pdf            "Buccola 2013 (Formal Grammar)"
+[eval2]:    files/buccola2013-eval2.pdf         "Second evaluation paper"
+[eval1]:    files/buccola2012-eval1.pdf         "First evaluation paper"
 [semprag]:  http://dx.doi.org/10.3765/sp.5.1    "Schwarz, Buccola, and Hamilton 2012"
 
 Handouts
@@ -54,6 +54,6 @@ Handouts
   puzzle in Italian. Talk given at the 4th Toronto--Ottawa--Montreal (TOM)
   semantics workshop, University of Toronto. [[pdf][tom4]]
 
-[mot]:      files/buccola-mot.pdf               "MOT handout"
-[tom5]:     files/buccola-tom5-handout.pdf      "TOM 5 handout"
-[tom4]:     files/buccola-tom4-handout.pdf      "TOM 4 handout"
+[mot]:      files/buccola2013-mot.pdf           "MOT handout"
+[tom5]:     files/buccola2012-tom5.pdf          "TOM 5 handout"
+[tom4]:     files/buccola2011-tom4.pdf          "TOM 4 handout"

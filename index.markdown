@@ -25,10 +25,12 @@ random stuff that comes to mind.
 Recent/Upcoming
 ---------------
 
-- On 9 November 2013, I was at the very first [Phonology 2013][phon2013]
-  conference at UMass Amherst presenting joint work with [Morgan
+- On 3 January 2014, I'll be at the [LSA][] presenting joint work with [Morgan
   Sonderegger][MS] on the expressivity of OT with respect to various types of
   phonological opacity.
+- On 9 November 2013, I presented the same joint work at the very first
+  [Phonology 2013][phon2013] conference at UMass Amherst.
 
-[phon2013]: http://blogs.umass.edu/phonology-2013/
+[LSA]: http://www.linguisticsociety.org/event/lsa-2014-annual-meeting
 [MS]: http://people.linguistics.mcgill.ca/~morgan/
+[phon2013]: http://blogs.umass.edu/phonology-2013/

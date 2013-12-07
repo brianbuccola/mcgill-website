@@ -22,7 +22,7 @@ random stuff that comes to mind.
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 [blog]: http://brianbuccola.github.io/ "Personal blog"
 
-Recent/Upcoming
+Upcoming/Recent
 ---------------
 
 - On 3 January 2014, I'll be at the [LSA][] presenting joint work with [Morgan

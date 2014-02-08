@@ -12,7 +12,7 @@ Education
 CV
 ---
 
-- Curriculum Vitae, as of 12 Nov 2013. [[pdf][cv-pdf] | [tex][cv-tex]]
+- Curriculum Vitae, as of 11 Jan 2014. [[pdf][cv-pdf] | [tex][cv-tex]]
 
 [cv-pdf]:
     files/buccola-cv.pdf

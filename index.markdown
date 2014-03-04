@@ -22,15 +22,4 @@ random stuff that comes to mind.
 [dept]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
 [blog]: http://brianbuccola.github.io/ "Personal blog"
 
-Upcoming/Recent
----------------
-
-- On 3 January 2014, I'll be at the [LSA][] presenting joint work with [Morgan
-  Sonderegger][MS] on the expressivity of OT with respect to various types of
-  phonological opacity.
-- On 9 November 2013, I presented the same joint work at the very first
-  [Phonology 2013][phon2013] conference at UMass Amherst.
-
-[LSA]: http://www.linguisticsociety.org/event/lsa-2014-annual-meeting
-[MS]: http://people.linguistics.mcgill.ca/~morgan/
-[phon2013]: http://blogs.umass.edu/phonology-2013/
+<!--Upcoming/Recent-->

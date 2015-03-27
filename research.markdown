@@ -2,8 +2,19 @@
 % Brian Buccola
 %
 
+*Note: See my [CV][cv] for the most up-to-date and most exhaustive list of my
+work.*
+
+[cv]: files/buccola-cv.pdf "Brian's CV"
+
 Papers
 ------
+
+### 2015
+
+- Buccola, Brian. To appear. Global semantic constraints: the case of Van
+  Benthem's problem. In *Proceedings of the 45th Annual Meeting of the North
+  East Linguistic Society (NELS).
 
 ### 2013
 

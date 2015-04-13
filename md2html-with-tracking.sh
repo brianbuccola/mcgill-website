@@ -32,11 +32,6 @@ md2html_with_tracking() {
     local in_file=$1
     local out_file="$(basename "$1" ".markdown").html"
 
-    # Don't convert README.markdown
-    if [[ ${in_file} == "README.markdown" ]]; then
-        exit 0
-    fi
-
     # Files to check.
     local files=("$in_file" "$css" "$head" "$before" "$after")
 
@@ -54,5 +49,10 @@ md2html_with_tracking() {
 
 # Convert all markdown files in current directory to html5.
 for f in *.markdown; do
+    # Don't convert README.markdown
+    if [[ "$f" == "README.markdown" ]]; then
+        continue
+    fi
+
     md2html_with_tracking "$f"
 done

@@ -41,14 +41,15 @@ Proceedings Papers
 
 - Buccola, Brian. To appear. Global semantic constraints: the case of Van
   Benthem's problem. In *Proceedings of the 45th Annual Meeting of the North
-  East Linguistic Society (NELS)*.
+  East Linguistic Society (NELS)*. [![pdf][]][nels45]
 
 - Buccola, Brian. 2013. On the Expressivity of Optimality Theory versus Ordered
   Rewrite Rules. In Glyn Morrill and Mark-Jan Nederhof (eds.), *Proceedings of
   Formal Grammar 2012 and 2013*, Lecture Notes in Computer Science 8036, pp.
   142--158, Springer-Verlag Berlin Heidelberg. [![pdf][]][fg]
 
-[fg]: files/buccola2013fg.pdf "Buccola 2013 (Formal Grammar)"
+[nels45]: files/buccola2015nels45.pdf "Buccola 2015 (NELS 45)"
+[fg]:     files/buccola2013fg.pdf     "Buccola 2013 (Formal Grammar)"
 
 [pdf]: images/pdf_icon.png
 

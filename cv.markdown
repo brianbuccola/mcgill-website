@@ -13,7 +13,7 @@ Education
 CV
 ---
 
-- Curriculum Vitae, as of 23 April 2015.  
+- Curriculum Vitae, as of 27 May 2015.  
   [![pdf][]][cv-pdf] [![tex][]][cv-tex]
 
 [cv-pdf]:

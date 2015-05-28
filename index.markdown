@@ -33,4 +33,11 @@ random stuff that comes to mind.
 [bs]:   http://webpages.mcgill.ca/staff/group4/bschwa8/web/ "Bernhard Schwarz"
 [blog]: http://brianbuccola.github.io/ "Personal blog"
 
-<!--Upcoming/Recent-->
+Upcoming
+--------
+
+My paper "Severing maximality from *fewer than*: evidence from genericity" has
+been accepted for a main session talk at [Sinn und Bedeutung][sub], which will
+take place this year at the University of Tübingen, September 9-12, 2015.
+
+[sub]: https://sites.google.com/site/sinnundbedeutung20/home

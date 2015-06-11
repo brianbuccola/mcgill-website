@@ -10,7 +10,7 @@ work.*
 Journal Articles
 ----------------
 
-- Schwarz, Bernhard, Brian Buccola, and Michael Hamilton.  2012. Two types of
+- Schwarz, Bernhard, Brian Buccola, and Michael Hamilton. 2012. Two types of
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
   Pragmatics*, Volume 5, Article 1:1--25. [![pdf][]][semprag]
 
@@ -19,11 +19,13 @@ Journal Articles
 Manuscripts
 -----------
 
-- Buccola, Brian. (In prep.) Severing maximality from modified numerals:
+- Buccola, Brian. In prep. Severing maximality from modified numerals:
   Evidence from genericity. Manuscript.
 
-- Buccola, Brian and Benjamin Spector. (In prep.) Maximality and modified
-  numerals. Manuscript.
+- Buccola, Brian and Benjamin Spector. 2015 (submitted). Maximality and
+  modified numerals. Manuscript. [![pdf][]][BSMax]
+
+[BSMax]: files/buccola.spector2015maximality.pdf "Buccola and Spector (submitted)"
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper,

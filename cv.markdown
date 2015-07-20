@@ -13,8 +13,7 @@ Education
 CV
 ---
 
-- Curriculum Vitae, as of 07 July 2015.  
-  [![pdf][]][cv-pdf] [![tex][]][cv-tex]
+- Curriculum Vitae. [![pdf][]][cv-pdf] [![tex][]][cv-tex]
 
 [cv-pdf]:
     files/buccola-cv.pdf

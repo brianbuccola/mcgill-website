@@ -11,13 +11,13 @@ and computational linguistics.
 
 Most of my research in semantics revolves around the interpretation of
 quantificational expressions, especially so-called modified numerals, like
-*fewer than five*, *at least three*, and *up to ten*. My dissertation looks at
-how expressions like *fewer/less than five* seems to mean different things
-depending on the type (distributive vs. non-distributive) of nominal and verbal
-arguments it combines with. Previously, I have also worked on ignorance
-inferences associated with superlative modifiers like *at least* and *at most*,
-as well as on the semantic and pragmatic differences between *at most* and *up
-to*.
+*fewer than five*, *at least three*, *up to ten*, and *between 20 and 30*. My
+dissertation looks at how expressions like *less than five* and *between three
+and five* seem to mean different things depending on the type (distributive vs.
+non-distributive) of nominal and verbal arguments they combines with.
+Previously, I have also worked on ignorance inferences associated with
+superlative modifiers like *at least* and *at most*, as well as on the semantic
+and pragmatic differences between *at most* and *up to*.
 
 I am also interested in the formal properties of formal grammars. I have worked
 in particular on the differences in generative capacity between Optimality

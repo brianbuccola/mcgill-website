@@ -36,8 +36,15 @@ random stuff that comes to mind.
 Upcoming
 --------
 
-My paper "Severing maximality from *fewer than*: evidence from genericity" has
-been accepted for a main session talk at [Sinn und Bedeutung][sub], which will
-take place this year at the University of Tübingen, September 9-12, 2015.
+- I'll be giving a main session talk ("Severing maximality from *fewer than*:
+  evidence from genericity") at [Sinn und Bedeutung 20][sub], which will take
+  place at the University of Tübingen, September 9-12, 2015.
 
+- I'll be giving a talk ("Modified numerals, plurals, and boundedness") at the
+  Syntax and Semantics of Numerals workshop at the [48th Annual Meeting of the
+  Societas Linguistica Europaea][sle], which will take place at Leiden
+  University, September 2-5, 2015.
+
+[sle]: http://sle2015.eu/
 [sub]: https://sites.google.com/site/sinnundbedeutung20/home
+

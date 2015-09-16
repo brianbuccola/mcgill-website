@@ -49,14 +49,15 @@ Recent/Upcoming
   University of Tübingen, September 9-12, 2015.
 
 - I gave a talk ("Maximal informativity and modified numerals: the case of
-  *between*") at the Leiden-Utrecht Semantics Happenings (LUSH) group, at
-  Utrecht University, on September 7, 2015.
+  *between*") at the [Leiden-Utrecht Semantics Happenings][lush] (LUSH) group,
+  at Utrecht University, on September 7, 2015.
 
 - I gave a talk ("Modified numerals, plurals, and boundedness") at the Syntax
   and Semantics of Numerals workshop at the [48th Annual Meeting of the
   Societas Linguistica Europaea][sle], which took place at Leiden University,
   September 2-5, 2015.
 
-[sle]: http://sle2015.eu/
-[sub]: https://sites.google.com/site/sinnundbedeutung20/home
+[lush]: https://lushtalks.wordpress.com/
+[sle]:  http://sle2015.eu/
+[sub]:  https://sites.google.com/site/sinnundbedeutung20/home
 

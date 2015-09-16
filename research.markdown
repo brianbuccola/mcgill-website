@@ -22,7 +22,7 @@ Manuscripts
 - Buccola, Brian. In prep. Severing maximality from modified numerals:
   Evidence from genericity. Manuscript.
 
-- Buccola, Brian and Benjamin Spector. 2015 (submitted). Maximality and
+- Buccola, Brian and Benjamin Spector. 2015 (under review). Maximality and
   modified numerals. Manuscript. [![pdf][]][BSMax]
 
 [BSMax]: files/buccola.spector2015maximality.pdf "Buccola and Spector (submitted)"
@@ -40,6 +40,9 @@ Manuscripts
 
 Proceedings Papers
 ------------------
+
+- Buccola, Brian. In prep. Severing maximality from *fewer than*:
+  Evidence from genericity. In *Proceedings of Sinn und Bedeutung 20*.
 
 - Buccola, Brian. To appear. Variable monotonicity and *less than*: when Van
   Benthem's problem is not a problem. In Thuy Bui and Deniz Özyildiz (eds.),

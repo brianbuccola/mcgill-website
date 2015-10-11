@@ -5,8 +5,8 @@
 Employment
 ----------
 
-- Postdoctoral fellow at the [Language, Logic, and Cognition Center][llcc] of
-  the [Hebrew University of Jerusalem][huji] (starting October 1, 2015).
+- Fellow at the [Language, Logic, and Cognition Center][llcc] of the [Hebrew
+  University of Jerusalem][huji] (since October 2015).
 
 [llcc]:   https://scholars.huji.ac.il/llcc/home "Language, Logic, and Cognition Center"
 [huji]:   http://huji.ac.il/ "The Hebrew University of Jerusalem"

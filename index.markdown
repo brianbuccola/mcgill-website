@@ -40,7 +40,7 @@ random stuff that comes to mind.
 Recent/Upcoming
 ---------------
 
-- Starting October 1, 2015, I'll be a postdoctoral fellow at the [Language,
+- In October 2015, I started my new position as a fellow at the [Language,
   Logic, and Cognition Center][llcc] of the [Hebrew University of
   Jerusalem][huji]!
 

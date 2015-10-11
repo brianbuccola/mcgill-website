@@ -6,10 +6,10 @@ About
 -----
 
 I am a linguist whose research interests lie mainly in formal semantics,
-pragmatics, the syntax-semantics interface, and mathematical linguistics. I
-recently completed my doctoral work at [McGill University][mcgill] and will
-soon be a postdoctoral fellow at the [Language, Logic, and Cognition
-Center][llcc] of the [Hebrew University of Jerusalem][huji].
+pragmatics, the syntax-semantics interface, and mathematical linguistics.
+Currently, I am a fellow at the [Language, Logic, and Cognition Center][llcc]
+of the [Hebrew University of Jerusalem][huji]. Before that, I completed my
+doctoral work at [McGill University][mcgill].
 
 Most of my research in semantics revolves around the interpretation of
 quantificational expressions, especially so-called modified numerals, like

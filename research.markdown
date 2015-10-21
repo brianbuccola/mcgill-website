@@ -44,10 +44,10 @@ Proceedings Papers
 - Buccola, Brian. In prep. Severing maximality from *fewer than*:
   Evidence from genericity. In *Proceedings of Sinn und Bedeutung 20*.
 
-- Buccola, Brian. To appear. Variable monotonicity and *less than*: when Van
-  Benthem's problem is not a problem. In Thuy Bui and Deniz Özyildiz (eds.),
+- Buccola, Brian. 2015. Variable monotonicity and *less than*: when Van
+  Benthem's problem is not a problem. In Thuy Bui and Deniz Özyıldız (eds.),
   *Proceedings of the 45th Annual Meeting of the North East Linguistic Society
-  (NELS)*. [![pdf][]][nels45]
+  (NELS 45)*, volume 1, pp. 135--124. [![pdf][]][nels45]
 
 - Buccola, Brian. 2013. On the Expressivity of Optimality Theory versus Ordered
   Rewrite Rules. In Glyn Morrill and Mark-Jan Nederhof (eds.), *Proceedings of

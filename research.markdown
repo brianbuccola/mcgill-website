@@ -19,8 +19,7 @@ Journal Articles
 Manuscripts
 -----------
 
-- Buccola, Brian. In prep. Severing maximality from modified numerals:
-  Evidence from genericity. Manuscript.
+- Buccola, Brian. In prep. Modified numerals and genericity. Manuscript.
 
 - Buccola, Brian and Benjamin Spector. 2015 (under review). Maximality and
   modified numerals. Manuscript. [![pdf][]][BSMax]

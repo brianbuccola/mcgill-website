@@ -31,14 +31,17 @@ programming (like Haskell), and (when I have time) brewing beer. I have a
 random stuff that comes to mind.
 
 [mcgill]: http://www.mcgill.ca/linguistics/ "McGill linguistics department"
-[llcc]:   https://scholars.huji.ac.il/llcc/home "Language, Logic, and Cognition Center"
-[huji]:   http://huji.ac.il/ "The Hebrew University of Jerusalem"
-[lao]:    http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/ "Luis Alonso-Ovalle"
-[bs]:     http://webpages.mcgill.ca/staff/group4/bschwa8/web/ "Bernhard Schwarz"
-[blog]:   http://brianbuccola.github.io/ "Personal blog"
+[llcc]: https://scholars.huji.ac.il/llcc/home "Language, Logic, and Cognition Center"
+[huji]: http://huji.ac.il/ "The Hebrew University of Jerusalem"
+[lao]: http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/ "Luis Alonso-Ovalle"
+[bs]: http://webpages.mcgill.ca/staff/group4/bschwa8/web/ "Bernhard Schwarz"
+[blog]: http://brianbuccola.github.io/ "Personal blog"
 
 Recent/Upcoming
 ---------------
+
+- I will give a colloquium talk ("Modified and unmodified numerals: lessons
+  from genericity") at [Tel Aviv University][tau] on November 9, 2015.
 
 - In October 2015, I started my new position as a fellow at the [Language,
   Logic, and Cognition Center][llcc] of the [Hebrew University of
@@ -57,7 +60,8 @@ Recent/Upcoming
   Societas Linguistica Europaea][sle], which took place at Leiden University,
   September 2-5, 2015.
 
-[lush]: https://lushtalks.wordpress.com/
-[sle]:  http://sle2015.eu/
-[sub]:  https://sites.google.com/site/sinnundbedeutung20/home
+[tau]: https://humanities.tau.ac.il/linguistics_eng/ "Tel Aviv University linguistics department"
+[lush]: https://lushtalks.wordpress.com/ "LUSH"
+[sle]: http://sle2015.eu/ "SLE"
+[sub]: https://sites.google.com/site/sinnundbedeutung20/home "SuB 20"
 

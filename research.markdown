@@ -41,8 +41,11 @@ Proceedings Papers
 [nels45]: files/buccola2015nels45.pdf "Buccola 2015 (NELS 45)"
 [fg]: files/buccola2013fg.pdf "Buccola 2013 (Formal Grammar)"
 
-Evaluation Papers
------------------
+Unpublished Research
+--------------------
+
+- Buccola, Brian. 2015. *Maximality in the Semantics of Modified Numerals*. PhD
+  dissertation, McGill University. [![pdf][]][diss]
 
 - Buccola, Brian. 2013. Two proofs that classic Optimality Theory is
   expressively weaker than ordered rewrite rules. Second evaluation paper,
@@ -52,6 +55,7 @@ Evaluation Papers
 - Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
   modality. First evaluation paper, McGill University. [![pdf][]][eval1]
 
+[diss]: files/buccola2015diss.pdf "Dissertation"
 [eval2]: files/buccola2013eval2.pdf "Second evaluation paper"
 [eval1]: files/buccola2012eval1.pdf "First evaluation paper"
 

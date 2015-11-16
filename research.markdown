@@ -25,7 +25,7 @@ Proceedings Papers
 
 - Buccola, Brian. In prep. Severing maximality from *fewer than*:
   Evidence from genericity. In *Proceedings of Sinn und Bedeutung 20*.
-  [![pdf][]][sub20]
+  [![pdf][]][sub20] (handout)
 
 - Buccola, Brian. 2015. Variable monotonicity and *less than*: when Van
   Benthem's problem is not a problem. In Thuy Bui and Deniz Özyıldız (eds.),

@@ -40,8 +40,8 @@ random stuff that comes to mind.
 Recent/Upcoming
 ---------------
 
-- I will give a colloquium talk ("Modified and unmodified numerals: lessons
-  from genericity") at [Tel Aviv University][tau] on November 19, 2015.
+- I gave a colloquium talk ("Modified and unmodified numerals: lessons from
+  genericity") at [Tel Aviv University][tau] on November 19, 2015.
 
 - In October 2015, I started my new position as a fellow at the [Language,
   Logic, and Cognition Center][llcc] of the [Hebrew University of

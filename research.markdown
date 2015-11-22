@@ -17,8 +17,8 @@ Journal Articles
   class B numeral modifiers: A reply to Nouwen 2010. *Semantics and
   Pragmatics*, Volume 5, Article 1:1--25. [![pdf][]][semprag]
 
-[BSMax]: files/buccola.spector2015maximality.pdf "Buccola and Spector (submitted)"
-[semprag]: http://semprag.org/article/download/sp.5.1/pdf "Schwarz, Buccola, and Hamilton 2012"
+[BSMax]: files/buccola.spector2015maximality.pdf "Buccola and Spector (under review)"
+[semprag]: http://semprag.org/article/download/sp.5.1/pdf "Schwarz, Buccola, and Hamilton 2012 (S&P)"
 
 Proceedings Papers
 ------------------
@@ -55,9 +55,9 @@ Unpublished Research
 - Buccola, Brian. 2012. Some remarks on inference patterns involving epistemic
   modality. First evaluation paper, McGill University. [![pdf][]][eval1]
 
-[diss]: files/buccola2015diss.pdf "Dissertation"
-[eval2]: files/buccola2013eval2.pdf "Second evaluation paper"
-[eval1]: files/buccola2012eval1.pdf "First evaluation paper"
+[diss]: files/buccola2015diss.pdf "Buccola 2015 (dissertation)"
+[eval2]: files/buccola2013eval2.pdf "Buccola 2013 (second evaluation paper)"
+[eval1]: files/buccola2012eval1.pdf "Buccola 2012 (first evaluation paper)"
 
 [pdf]: images/pdf_icon.png
 
